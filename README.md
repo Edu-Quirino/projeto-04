@@ -5,5 +5,5 @@ Criação do blog
 
 [ ] Os posts devem ser inseridos na página via JS.
 
-[ ] Os elementos da página devem ser estilizados usando CSS.
+[ ] Os elementos da página devem ser centralizados usando CSS.
 
